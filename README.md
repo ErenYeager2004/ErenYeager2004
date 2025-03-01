@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **android app development**
 
-- 🌱 I’m currently learning **Currently learning Java app development & mastering DSA with C++! 🚀💡**
+- 🌱 I’m currently learning **Java app development & mastering DSA with C++! 🚀💡**
 
 - 📫 How to reach me **debjitsaha606@gmail.com**
 

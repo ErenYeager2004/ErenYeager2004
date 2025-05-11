@@ -1,11 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/ErenYeager2004)
 <h1 align="center">Hi 👋, I'm Debjit Saha</h1>
-<h3 align="center">C++ & Java Enthusiast | Android Dev in Java 📱 | Backend & AI Explorer 🤖 | DSA Learner ⚡ | Gamer at Heart 🎮</h3>
+<h3 align="center">C++ & Java Enthusiast | Android Dev in Kotlin 📱 | Backend & AI Explorer 🤖 | DSA Learner ⚡ | Gamer at Heart 🎮</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erenyeager2004&label=Profile%20views&color=0e75b6&style=flat" alt="erenyeager2004" /> </p>
 
 - 🔭 I’m currently working on **android app development**
 
-- 🌱 I’m currently learning **Java app development & mastering DSA with C++! 🚀💡**
+- 🌱 I’m currently learning **Kotlin app development & mastering DSA with C++! 🚀💡**
 
 - 📫 How to reach me **debjitsaha606@gmail.com**
 

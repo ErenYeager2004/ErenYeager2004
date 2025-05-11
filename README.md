@@ -26,9 +26,22 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" width ="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenyeager2004&show_icons=true&locale=en&layout=compact" alt="erenyeager2004" /></p>
+<p>
+  <img align="center" width="400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyeager2004&layout=compact&langs_count=25&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&card_width=400"
+    alt="erenyeager2004" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenyeager2004&show_icons=true&locale=en" alt="erenyeager2004" /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=erenyeager2004&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=400&hide_border=true&count_private=true&include_all_commits=true&hide_title=false&line_height=24&custom_title=erenyeager2004's%20GitHub%20Stats" 
+       alt="erenyeager2004" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenyeager2004&" alt="erenyeager2004" /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=erenyeager2004&theme=midnight-purple&hide_border=true&background=000000&ring=ffffff&fire=ff9c00&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" 
+       alt="erenyeager2004" />
+</p>
+
 

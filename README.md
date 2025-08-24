@@ -1,4 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=erenyeager2004&label=Profile%20views&color=0e75b6&style=flat" alt="erenyeager2004" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=erenyeager2004&label=Profile%20Views&color=0e75b6&style=flat-square" alt="erenyeager2004" />
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Debjit+Saha!;" />
@@ -9,24 +11,25 @@
 <br/>
 
 <div align="center">
-🔭 I’m currently working on Android app development
-  
-🌱 I’m currently learning **Kotlin app development & mastering DSA with C++ & Java! 🚀💡**
 
-📫 How to reach me **debjitsaha606@gmail.com**
+### ✨ About Me ✨
 
-⚡Fun fact **When I’m not coding, you’ll probably find me gaming online—because debugging and boss fights are kinda similar! 😆**
- </div>
- 
+<p>🔭 I’m currently working on <b>Android App Development</b></p>
+
+<p>🌱 I’m mastering <b>DSA</b> and learning <b>Kotlin App Development</b></p>
+
+<p>📫 You can reach me at <b>debjitsaha606@gmail.com</b></p>
+
+<p>⚡ Fun Fact: Debugging is just a boss fight with your own code</p>
+
+</div>
+
 <div align="center"> 
-  <a href="debjitsaha606@gmail.com">
+  <a href="mailto:debjitsaha606@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/debjit-saha-4610ba254" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -35,8 +38,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <div align="center">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,c,python,javascript,html,css,git,androidstudio,idea,vscode,mongodb,mysql&perline=7" />
+</div>
 </div>
 
 <br/>
@@ -55,10 +59,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ErenYeager2004&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ErenYeager2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenYeager2004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -66,9 +70,5 @@
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
